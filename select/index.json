@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Hadal Ahbek",
+  "base_artist": "Issam Alnajjar",
+  "createdAt": "2025-12-07T12:48:45.104032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Turning Me Up (Hadal Ahbek)",
+      "artist": "Issam Alnajjar feat. Loud Luxury & Ali Gatie",
+      "has_synced": true,
+      "path": "select/01_Turning_Me_Up_(Hadal_Ahbek)_Issam_Alnajjar_feat._Loud_Luxury_&_Ali_Gatie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Turning Me Up (Hadal Ahbek)",
+      "artist": "Issam Alnajjar",
+      "has_synced": true,
+      "path": "select/02_Turning_Me_Up_(Hadal_Ahbek)_Issam_Alnajjar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Si Tu Vuelas - Hadal Ahbek [Alok Remix]",
+      "artist": "Issam Alnajjar feat. Alok & Danna Paola",
+      "has_synced": true,
+      "path": "select/03_Si_Tu_Vuelas_-_Hadal_Ahbek_[Alok_Remix]_Issam_Alnajjar_feat._Alok_&_Danna_Paola.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Si Tu Vuelas (Hadal Ahbek Alok Remix)",
+      "artist": "Issam Alnajjar, Alok, Danna Paola",
+      "has_synced": true,
+      "path": "select/04_Si_Tu_Vuelas_(Hadal_Ahbek_Alok_Remix)_Issam_Alnajjar,_Alok,_Danna_Paola.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hadal Ahbek",
+      "artist": "Issam Alnajjar",
+      "has_synced": true,
+      "path": "select/05_Hadal_Ahbek_Issam_Alnajjar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hadal Ahbek",
+      "artist": "Issam Alnajjar",
+      "has_synced": true,
+      "path": "select/06_Hadal_Ahbek_Issam_Alnajjar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Turning Me Up (Hadal Ahbek)",
+      "artist": "Issam Alnajjar, Loud Luxury & Ali Gatie",
+      "has_synced": true,
+      "path": "select/07_Turning_Me_Up_(Hadal_Ahbek)_Issam_Alnajjar,_Loud_Luxury_&_Ali_Gatie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Issam Alnajjar - Hadal Ahbek (Performance Video)",
+      "artist": "Issam Alnajjar",
+      "has_synced": true,
+      "path": "select/08_Issam_Alnajjar_-_Hadal_Ahbek_(Performance_Video)_Issam_Alnajjar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Turning Me Up (Hadal Ahbek)",
+      "artist": "Ali Gatie, Issam Alnajjar, Loud Luxury",
+      "has_synced": true,
+      "path": "select/09_Turning_Me_Up_(Hadal_Ahbek)_Ali_Gatie,_Issam_Alnajjar,_Loud_Luxury.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Issam Alnajjar - Hadal Ahbek (Official Video)",
+      "artist": "Issam Alnajjar",
+      "has_synced": true,
+      "path": "select/10_Issam_Alnajjar_-_Hadal_Ahbek_(Official_Video)_Issam_Alnajjar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hadal Ahbek Slowed Reverb - Remix",
+      "artist": "Eduardo XD feat. RH Music",
+      "has_synced": false,
+      "path": "select/11_Hadal_Ahbek_Slowed_Reverb_-_Remix_Eduardo_XD_feat._RH_Music.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hadal Ahbek Slowed Reverb (Remix)",
+      "artist": "Eduardo XD & RH Music",
+      "has_synced": false,
+      "path": "select/12_Hadal_Ahbek_Slowed_Reverb_(Remix)_Eduardo_XD_&_RH_Music.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hadal Ahbek",
+      "artist": "Issam Alnajjar",
+      "has_synced": true,
+      "path": "select/13_Hadal_Ahbek_Issam_Alnajjar.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Turning Me Up (Hadal Ahbek) (Official Music Video)",
+      "artist": "Issam Alnajjar",
+      "has_synced": true,
+      "path": "select/14_Turning_Me_Up_(Hadal_Ahbek)_(Official_Music_Video)_Issam_Alnajjar.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Issam Alnajjar - Hadal Ahbek",
+      "artist": "Issam Alnajjar",
+      "has_synced": true,
+      "path": "select/15_Issam_Alnajjar_-_Hadal_Ahbek_Issam_Alnajjar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hadal Ahbek (R3HAB Club Remix)",
+      "artist": "Issam Alnajjar, R3HAB",
+      "has_synced": true,
+      "path": "select/16_Hadal_Ahbek_(R3HAB_Club_Remix)_Issam_Alnajjar,_R3HAB.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hadal Ahbek",
+      "artist": "Issam Alnajjar",
+      "has_synced": false,
+      "path": "select/pl_01_Hadal_Ahbek_Issam_Alnajjar.txt"
+    }
+  ]
+}
